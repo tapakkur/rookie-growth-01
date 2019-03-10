@@ -1,2 +1,2 @@
-# nowcoder exercises:
-Here are a lot of nowcoder exercises,which contains Huawei ,Alibaba,Wangyi,Tencent  written examination questions over the years . 
+# nowcoder programming questions:
+there are what you want on the website: www.nowcoder.com
